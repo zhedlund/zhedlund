@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems**
+<!--**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems**-->
 
 Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Berlin) and studying **Computer Science** at [Luleå University of Technology](https://www.ltu.se/en), while working at [Fablab NK](http://github.com/fablabnk). My primary areas of interest include creative coding, embedded systems, and the fascinating domain of IoT.
 
