@@ -1,4 +1,4 @@
-## Hi there 👋
+## Zandra Hedlund
 
 <!--
 **zhedlund/zhedlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems** | 🌐 **Full-Stack Development**  
+
+Currently wrapping up my Core Curriculum at **42 Berlin** and studying **Computer Science** at **Luleå University of Technology**. Passionate about low-level programming and hardware-software integration.
+
+### Skills
+- **Languages**: C, C++, Python, JavaScript, C#, Java, Node.js
+- **Web**: HTML, CSS, SQL
+- **Tools**: Git, Docker
+- **Areas**: Embedded Systems, Full-Stack Development, AI, Creative Coding, Computer security
+
+### Current project
+[HTTP server in C++](https://multitudes.github.io/42-Webserv/)
+
+Let's collaborate on open-source projects and dive into cool tech 🔥
