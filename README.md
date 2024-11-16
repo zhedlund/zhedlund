@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Currently wrapping up my Core Curriculum at **42 Berlin** and studying **Computer Science** at **Luleå University of Technology**. Passionate about low-level programming and hardware-software integration.
 
 ### Skills
-- **Languages**: C, C++, Python, JavaScript, C#, Java, Node.js
-- **Web**: HTML, CSS, SQL
+- **Languages**: C, C++, Python, C#, Java
+- **Web**: HTML, CSS, JavaScript, Node.js, SQL
 - **Tools**: Git, Docker
 - **Areas**: Embedded Systems, Full-Stack Development, AI, Creative Coding, Computer security
 
