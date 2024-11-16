@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems** | 🌐 **Full-Stack Development**  
+**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems**
 
 Currently wrapping up my Core Curriculum at **42 Berlin** and studying **Computer Science** at **Luleå University of Technology**. My primary areas of interest include creative coding, embedded systems, and the fascinating domain of IoT.
 
 ### Skills
-- **Languages**: C, C++, Python, C#, Java
+- **Languages**: C, C++, Python
 - **Web**: HTML, CSS, JavaScript, Node.js, SQL
 - **Tools**: Git, Docker
-- **Areas**: Embedded Systems, IoT, Full-Stack Development, AI, Creative Coding, Computer security
+- **Areas**: Embedded Systems, IoT, Creative Coding, Computer security, AI
 
 ### Current project
 [HTTP server in C++](https://multitudes.github.io/42-Webserv/)
