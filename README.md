@@ -33,8 +33,8 @@ Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Ber
 <b>Microcontrollers and creative coding at [Fablab NK](http://github.com/fablabnk), Berlin</b><ul>
 [MicroController Makerthon 48h Neukölln](https://github.com/fablabnk/MicrocontrollerMakerthon)<br>
 [Automatic Plant Watering System](https://github.com/fablabnk/AutomaticPlantWatering)<br>
-[Introduction to Microcontrollers](https://github.com/fablabnk/MicrocontrollerQuickstart)<br>
-[Introduction to Arduino](https://github.com/fablabnk/OpenHouse_ArduinoEdition)
+<!--[Introduction to Microcontrollers](https://github.com/fablabnk/MicrocontrollerQuickstart)<br>
+[Introduction to Arduino](https://github.com/fablabnk/OpenHouse_ArduinoEdition) -->
 </ul>
 
 ### Coding tutorials on Youtube
