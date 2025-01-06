@@ -24,6 +24,25 @@ Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Ber
 🌐 [HTTP server in C++](https://multitudes.github.io/42-Webserv/) <br>
 💡 [CrateLight](https://github.com/fablabnk/CrateLight)
 
+### Workshops conducted
+<b>Hardware Hacking at [Chaos Communication Congress 2024](https://events.ccc.de/congress/2024/infos/startpage.html), Hamburg</b><ul>
+[Build a Trigg - Mini Games Console](https://github.com/fablabnk/TriggWorkshop), 50 attendants <br>
+[Build a RVPC - Olimex RISC-V MicroComputer](https://github.com/fablabnk/RVPCWorkshop), 50 attendants
+</ul>
+
+<b>Microcontrollers and creative coding at [Fablab NK](http://github.com/fablabnk), Berlin</b><ul>
+[MicroController Makerthon 48h Neukölln](https://github.com/fablabnk/MicrocontrollerMakerthon)<br>
+[Automatic Plant Watering System](https://github.com/fablabnk/AutomaticPlantWatering)<br>
+[Introduction to Microcontrollers](https://github.com/fablabnk/MicrocontrollerQuickstart)<br>
+[Introduction to Arduino](https://github.com/fablabnk/OpenHouse_ArduinoEdition)
+</ul>
+
+### Coding tutorials on Youtube
+[Recursion: Everything you need to know about it](https://youtu.be/BOrAx36_HG4?feature=shared) <br>
+[Understanding Memory Management in C](https://youtu.be/u4mrC0QtZLU?feature=shared) <br>
+[Mastering Memory in C: How to use malloc like a pro](https://youtu.be/399kpfP6nRs?feature=shared) <br>
+[Mastering Command Line Arguments in C: argc and argv made easy](https://youtu.be/pRMZCETp71g?feature=shared)
+
 ### Technical skills
 
 [![Stack](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
