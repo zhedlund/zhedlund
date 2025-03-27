@@ -24,7 +24,7 @@ Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Ber
 🌐 HTTP server in C++<br>
 💡 [CrateLight - Large scale LED pixel wall](https://github.com/zhedlund/CrateLight)<br>
 🎛️ [Rack42 - Modular synthesizer](https://github.com/zhedlund/Rack42)<br>
-🪩 [Disko-star - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
+🪩 [Diskostar - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
 
 ### Workshops conducted
 <b>Hardware Hacking at [Chaos Communication Congress 2024](https://events.ccc.de/congress/2024/infos/startpage.html), Hamburg</b><ul>
