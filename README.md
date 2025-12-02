@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 <!--**Software Engineer** | 💻 **C/C++/Python** | 🔧 **Embedded Systems**-->
 
-Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Berlin) and studying **Computer Science** at [Luleå University of Technology](https://www.ltu.se/en), while working on projects at [Fablab NK](http://github.com/fablabnk). My primary areas of interest include creative coding, hardware hacking, and the fascinating domain of IoT.
+### Your Legacy Code is safe with me
+
+Completed the Core Curriculum, a 2 year Software Engineering program at [42 Berlin](https://github.com/42Berlin), with focus on Low-Level programming in C/C++. Currently looking into the Advanced Curriculum in kernel development and studying **Computer Science** at [Luleå University of Technology](https://www.ltu.se/en), while working on hardware projects at [Fablab NK](http://github.com/fablabnk). My primary areas of interest include creative coding, hardware hacking, and the fascinating domain of IoT.
 
 ### Current projects
-🌐 HTTP server in C++<br>
+⚙️ Learning Assembly<br>
+🌐 Full Stack Web Application - Multiplayer Game Platform<br>
 💡 [CrateLight - Large scale LED pixel wall](https://github.com/zhedlund/CrateLight)<br>
 🎛️ [Rack42 - Modular synthesizer](https://github.com/zhedlund/Rack42)<br>
 🪩 [Diskostar - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
@@ -35,6 +38,7 @@ Currently wrapping up my Core Curriculum at [42 Berlin](https://github.com/42Ber
 <b>Microcontrollers and creative coding at [Fablab NK](http://github.com/fablabnk), Berlin</b><ul>
 [MicroController Makerthon 48h Neukölln](https://github.com/fablabnk/MicrocontrollerMakerthon)<br>
 [Automatic Plant Watering System](https://github.com/fablabnk/AutomaticPlantWatering)<br>
+Art Machine Makerthon
 <!--[Introduction to Microcontrollers](https://github.com/fablabnk/MicrocontrollerQuickstart)<br>
 [Introduction to Arduino](https://github.com/fablabnk/OpenHouse_ArduinoEdition) -->
 </ul>
