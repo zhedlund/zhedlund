@@ -24,13 +24,14 @@ Completed the Core Curriculum, a 2 year Software Engineering program at [42 Berl
 
 ### Current projects
 ⚙️ Learning Assembly<br>
+📈 [Air Quality Monitor](https://github.com/zhedlund/air-quality-monitor)<br>
 🌐 Full Stack Web Application - Multiplayer Game Platform<br>
 💡 [CrateLight - Large scale LED pixel wall](https://github.com/zhedlund/CrateLight)<br>
 🎛️ [Rack42 - Modular synthesizer](https://github.com/zhedlund/Rack42)<br>
 🪩 [Diskostar - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
 
 ### Workshops conducted
-<b>Hardware Hacking at [Chaos Communication Congress 2024](https://events.ccc.de/congress/2024/infos/startpage.html), Hamburg</b><ul>
+<b>Hardware Hacking at [Chaos Communication Congress 2024](https://events.ccc.de/congress/2024/infos/startpage.html)</b><ul>
 [Build a Trigg - Mini Games Console](https://github.com/fablabnk/TriggWorkshop), 50 attendants <br>
 [Build a RVPC - Olimex RISC-V MicroComputer](https://github.com/fablabnk/RVPCWorkshop), 50 attendants
 </ul>
