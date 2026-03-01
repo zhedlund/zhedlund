@@ -24,8 +24,9 @@ Completed the Core Curriculum, a 2 year Software Engineering program at [42 Berl
 
 ### Current projects
 ⚙️ Learning Assembly<br>
+🔧 Developing new hardware hacking workshop kits<br>
 📈 [Air Quality Monitor](https://github.com/zhedlund/air-quality-monitor)<br>
-🌐 Full Stack Web Application - Multiplayer Game Platform<br>
+🌐 [Full Stack Web Application - Multiplayer Game Platform](https://github.com/tsurma-dev/transcendence)<br>
 💡 [CrateLight - Large scale LED pixel wall](https://github.com/zhedlund/CrateLight)<br>
 🎛️ [Rack42 - Modular synthesizer](https://github.com/zhedlund/Rack42)<br>
 🪩 [Diskostar - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
@@ -37,9 +38,9 @@ Completed the Core Curriculum, a 2 year Software Engineering program at [42 Berl
 </ul>
 
 <b>Microcontrollers and creative coding at [Fablab NK](http://github.com/fablabnk), Berlin</b><ul>
-[MicroController Makerthon 48h Neukölln](https://github.com/fablabnk/MicrocontrollerMakerthon)<br>
+[MicroController Makerthon 48h Neukölln](https://github.com/fablabnk/MicrocontrollerMakerthon) 2024<br>
 [Automatic Plant Watering System](https://github.com/fablabnk/AutomaticPlantWatering)<br>
-Art Machine Makerthon
+Art Machine Makerthon 2025
 <!--[Introduction to Microcontrollers](https://github.com/fablabnk/MicrocontrollerQuickstart)<br>
 [Introduction to Arduino](https://github.com/fablabnk/OpenHouse_ArduinoEdition) -->
 </ul>
