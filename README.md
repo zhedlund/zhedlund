@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 Completed the Core Curriculum, a 2 year Software Engineering program at [42 Berlin](https://github.com/42Berlin), with focus on Low-Level programming in C/C++. Currently looking into the Advanced Curriculum in kernel development and studying **Computer Science** at [Luleå University of Technology](https://www.ltu.se/en), while working on hardware projects at [Fablab NK](http://github.com/fablabnk). My primary areas of interest include creative coding, hardware hacking, and the fascinating domain of IoT.
 
-### Current projects
+### Current and recent projects
 ⚙️ Learning Assembly<br>
 🔧 Developing new hardware hacking workshop kits<br>
 📈 [Air Quality Monitor](https://github.com/zhedlund/air-quality-monitor)<br>
 🌐 [Full Stack Web Application - Multiplayer Game Platform](https://github.com/tsurma-dev/transcendence)<br>
+💾 [HTTP server in C++98](https://github.com/zhedlund/webserv)<br>
 💡 [CrateLight - Large scale LED pixel wall](https://github.com/zhedlund/CrateLight)<br>
 🎛️ [Rack42 - Modular synthesizer](https://github.com/zhedlund/Rack42)<br>
 🪩 [Diskostar - Hacking an IKEA PS 2014 lamp](https://github.com/zhedlund/disko-star)
